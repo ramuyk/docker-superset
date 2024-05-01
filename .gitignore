@@ -29,7 +29,6 @@ __pycache__
 cover
 .DS_Store
 .eggs
-.env
 .envrc
 .idea
 .mypy_cache
@@ -113,3 +112,4 @@ docker/requirements-local.txt
 
 cache/
 docker/*local*
+*~undo-tree~
